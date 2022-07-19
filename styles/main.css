@@ -81,9 +81,12 @@ header{
 
 /* ---------------------------partner section style start---------------------- */
 .partner{
-    width: 100%;
+    width: 1110px;
+    height: 110px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-top: 1px solid rgb(224, 226, 228);
+    border-bottom: 1px solid rgb(224, 226, 228);
 }
  /* ---------------------------partner section style end---------------------- */
